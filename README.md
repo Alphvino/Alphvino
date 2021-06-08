@@ -1,7 +1,7 @@
 ### Hi there I'm [Alphvino!](https://alphvino.com/) 👋
 
 - 🔭 I’m currently training myself
-- 🌱 I’m currently learning C - JS
+- 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on ??
 - 💬 Ask me about anything [here](https://github.com/Alphvino/Alphvino/issues)
 - 📫 How to reach me: [Mail](mailto:alpha@alphvino.com) or by [Telegram](https://t.me/uraele)
